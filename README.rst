@@ -74,6 +74,7 @@ See ``i/``.
 
 Remember to modify ``printf()`` when TTY is changed (see ``j/``).
 
+`‹prev`_   `next›`_
 
-.. _`‹prev`: https://github.com/yyu/osfs07
-.. _`next›`: https://github.com/yyu/osfs09
+.. _`‹prev`: https://github.com/yyu/osfs08
+.. _`next›`: https://github.com/yyu/osfs10
